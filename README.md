@@ -1,4 +1,4 @@
 # Olá, Mundo!
- Primeiro repositório versionado criado arravés de um cirso de git e GitHub
+ Primeiro repositório versionado criado através de um curso de git e GitHub
 
 Linha adicionada pelo site
